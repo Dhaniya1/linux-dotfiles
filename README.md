@@ -15,10 +15,15 @@ Compositor: Picom
 Included Configurations
 
 .config/
+
 ├── i3/
+
 ├── kitty/
+
 ├── polybar/
+
 ├── picom/
+
 └── zsh/
 
 Features
