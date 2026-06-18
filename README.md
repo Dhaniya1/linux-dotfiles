@@ -12,19 +12,18 @@ Terminal: Kitty
 Shell: Zsh
 Status Bar: Polybar
 Compositor: Picom
-Included Configurations
 
-.config/
-
+Repository Structure
+.
+├── fish/
 ├── i3/
-
 ├── kitty/
-
 ├── polybar/
-
-├── picom/
-
-└── zsh/
+├── rofi/
+├── .bashrc
+├── .gitconfig
+├── .zshrc
+└── picom.conf
 
 Features
 Minimal i3 workspace setup
