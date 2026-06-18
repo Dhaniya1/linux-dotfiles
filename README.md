@@ -14,7 +14,7 @@ Status Bar: Polybar
 Compositor: Picom
 
 Repository Structure
-.
+.<br>
 ├── fish/<br>
 ├── i3/<br>
 ├── kitty/<br>
