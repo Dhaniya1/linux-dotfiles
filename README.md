@@ -1,0 +1,29 @@
+Dotfiles
+
+My personal Linux configuration files and desktop setup.
+
+Built around a lightweight workflow focused on productivity, keyboard-driven navigation, and a clean development environment.
+
+Preview
+Environment
+OS: Linux Mint
+Window Manager: i3
+Terminal: Kitty
+Shell: Zsh
+Status Bar: Polybar
+Compositor: Picom
+Included Configurations
+
+.config/
+├── i3/
+├── kitty/
+├── polybar/
+├── picom/
+└── zsh/
+
+Features
+Minimal i3 workspace setup
+Custom Polybar configuration
+Kitty terminal customization
+Zsh shell configuration
+Lightweight and keyboard-focused workflow
