@@ -15,14 +15,14 @@ Compositor: Picom
 
 Repository Structure
 .
-├── fish/
-├── i3/
-├── kitty/
-├── polybar/
-├── rofi/
-├── .bashrc
-├── .gitconfig
-├── .zshrc
+├── fish/..
+├── i3/..
+├── kitty/..
+├── polybar/..
+├── rofi/..
+├── .bashrc..
+├── .gitconfig..
+├── .zshrc..
 └── picom.conf
 
 Features
